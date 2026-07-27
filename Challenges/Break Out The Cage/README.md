@@ -1,8 +1,4 @@
 # Break Out The Cage
-
-> **Platform:** TryHackMe
-> **Operating System:** Linux
-
 ---
 
 ## Initial Enumeration
