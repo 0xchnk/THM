@@ -82,10 +82,6 @@ Success!
 
 ![](images/Pasted%20image%2020260624152933.png)
 
-The decrypted password is:
-
-> **Mydadisghostrideraintthatcoolnocausehesonfirejokes**
-
 The TryHackMe room mentions that this password belongs to **Weston**, so let's try SSH.
 
 ![](images/Pasted%20image%2020260624153349.png)
